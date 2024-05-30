@@ -1,5 +1,4 @@
-# Terrain Water Flow
-
+# Water Path Finder
 ## Description
 
 Terrain Water Flow is a C++, OpenGL project aimed at simulating water flow over terrain surfaces. It provides tools to model various aspects of hydrology, including rainfall, surface runoff, and drainage patterns. The project utilizes STL (Stereolithography) files to represent terrain surfaces and employs a pathfinding algorithm to determine water flow paths.
@@ -107,7 +106,7 @@ vector<Point3D> Findpath::findpath(Triangulation& terrain)
 ```
 Clone this repository to your local machine.
 ```
-git clone 
+git clone https://github.com/joshiaayush/Water-Path-Finder.git
 ```
 
 
